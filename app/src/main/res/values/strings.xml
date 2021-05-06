@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PixelBlackJack</string>
+    <string name="btnPlayGame">Play Game</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnHelp">Help</string>
+    <string name="tvPlayerBet">Player Bet:</string>
+    <string name="tvDealerBet">Dealer Bet:</string>
+    <string name="tvPlayerCardValue">Player Card(s) Value:</string>
+    <string name="tvDealerCardValue">Dealer Card(s) Value:</string>
+    <string name="btnEndGame">End Game</string>
+    <string name="etEnterBetHint">Enter Bet</string>
+    <string name="btnBet">Bet</string>
+    <string name="btnHit">Hit</string>
+    <string name="btnStand">Stand</string>
+    <string name="tvDefaultPlayerScore">$0</string>
+    <string name="tvDefaultDealerScore">$0</string>
+    <string name="tvDefaultPlayerCardValue">0</string>
+    <string name="tvDefaultDealerCardValue">0</string>
+    <string name="tvScoreBoardTitle">Scoreboard</string>
+    <string name="btnBackToMenu">Back To Menu</string>
+    <string name="btnReset">Reset</string>
+    <string name="tvSplashScreenTitle">BlackJack♠</string>
+    <string name="btnBackToTheMenu">Back To Menu</string>
+</resources>
